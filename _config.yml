@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CS 562
+title: CS 562: Virtual Machines
 tagline: Virtual Machines, Spring 2022
 description: CS 562 Virtual Machines
 author: Kyle Hale
