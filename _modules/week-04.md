@@ -3,7 +3,8 @@ title: Week 4
 ---
 
 Day 7 (1/31)
-: TBD
+: Hawknest overview and codebase intro
 
 Day 8 (2/2)
-: TBD
+: Binary Translation
+  : **S&N 2.5-2.10**{: .label .label-purple}
