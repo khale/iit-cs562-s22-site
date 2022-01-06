@@ -1,8 +1,9 @@
 ---
-title: Research Process
+title: Week 4
 ---
 
-Day 4
-: [What is it like to do research?](#)
-  : [reading](#)
+Day 7 (1/31)
+: TBD
 
+Day 8 (2/2)
+: TBD

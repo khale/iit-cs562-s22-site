@@ -1,9 +1,11 @@
 ---
-title: Why Research?
+title: Week 2
 ---
 
-Day 2
-: [Why do undergrad research and an honors thesis?](#)
-  : [reading](#)
-: **Assignment 1 due**{: .label .label-red }
+Day 3 (1/17)
+: **MLK Day: No Class**{: .label .label-yellow }
+
+Day 4 (1/19)
+: Addressing Modes, MMIO, DMA Review
+: **Project 1 Prelim Due**{: .label .label-red }
 

@@ -1,8 +1,10 @@
 ---
-title: Literature Review
+title: Week 5
 ---
 
-Day 5
-: [How to read a CS research paper](#)
-  : [reading](#)
+Day 9 (2/7)
+: TBD
+
+Day 10 (2/9)
+: TBD
 

@@ -1,8 +1,9 @@
 ---
-title: Panel
+title: Week 6
 ---
 
-Day 6
-: [Undergraduate Research Panel](#)
-  : [reading](#)
+Day 11 (2/14)
+: TBD
 
+Day 12 (2/16)
+: TBD
