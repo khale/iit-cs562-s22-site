@@ -54,7 +54,7 @@ with Vagrant VMs.
 ## Other Useful Links and Resources
 - [Nice tutorial](https://try.github.io/levels/1/challenges/1) for learning git
 - [Emulators](https://www.pcjs.org/) for various historically significant machines
-- [MS BAISC](https://www.pagetable.com/?p=774) for 6502
+- [MS BASIC](https://www.pagetable.com/?p=774) for 6502
 - [Interrupt logic](https://www.pagetable.com/?p=410) on the 6502
 - [6502 on the cloud](http://www.6502cloud.com/)
 - [Visual 6502](http://www.visual6502.org/JSSim/index.html)
