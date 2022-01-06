@@ -1,10 +1,10 @@
 ---
 layout: home
-title: CS 492
+title: CS 562
 nav_exclude: true
 seo:
   type: Course
-  name: Introduction to CS Research
+  name: Virtual Machines
 ---
 
 # {{ site.tagline }}
@@ -19,24 +19,47 @@ seo:
 
 ## Welcome!
 
-This is the webpage for CS 492: Introduction to CS Research at
-[IIT](https://iit.edu).  This course is for undergraduates in Computer Science
-who have enrolled in the [Computer Science Honors Research
-Specialization](http://bulletin.iit.edu/undergraduate/colleges/computing/computer-science/bs/#specializationstext).
-Briefly, the goal of this course is to introduce undergraduates in their first
-or second years to the research process and to research going on in our
-[department](https://www.iit.edu/computer-science). See more in the
-[syllabus](syllabus.md).
+This is the webpage for CS 562: Virtual Machines
+[IIT](https://iit.edu).  This course is for graduates and advanced undergraduates in Computer Science.
 
-## Useful Books and Resources 
-- [Student Research at IIT](https://www.iit.edu/research/student-research)
-- Matt Migh's [blog](https://matt.might.net/articles/) has several great articles on grad school
-- Richard Hamming: You and Your Research ([paper](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html), [talk](https://www.youtube.com/watch?v=a1zDuOPkMSw)). You can find a more detailed treatment in [this book](https://www.amazon.com/Art-Doing-Science-Engineering-Learning/dp/1732265178).
-- David Anderson's [reflections](https://da-data.blogspot.com/2013/01/on-phd.html) on doing a PhD in CS
-- Mor Harchol-Balter's [advice](http://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) on applying to PhD programs
-- For those interested in systems research: watch Remzi Arpaci-Dusseau's great [keynote](https://www.usenix.org/conference/atc19/presentation/keynote) from USENIX ATC'19
-- Duane Bailey's [Letter to Research Students](https://www.cs.williams.edu/~bailey/p/research.pdf)
-- [How to be a Good Graduate Student](http://www.jdl.ac.cn/how_to_research/doc/How%20to%20be%20a%20good%20graduate%20student.pdf) from Marie desJardins
-- [Courage in technology](https://cseweb.ucsd.edu/~wgg/smli_ps-1.pdf)
+## Course Communication
+We'll be using [Discord](https://discord.gg/dXuteHWX) for course communication. 
+
+## Books
+The following book is the only required textbook for this course. If you plan
+on pursuing computer systems seriously, it is a great book to have as
+a reference:
+
+[Virtual Machines: Versatile Platforms for Systems and Processes](http://a.co/2s0kMO6) (1st Edition), by Jim Smith and Ravi Nair, 2005 Morgan Kaufmann.
+
+If you are looking for books to help you in this area, and for good reference texts to have on your shelf, please consider
+the following:
+- Anderson & Dahlin. Operating Systems: Principles and Practice, 2nd edition, 2014.
+- Remzi & Andrea Arpaci-Dusseau. Operating Systems: Three Easy Pieces, available online [here](https://www.ostep.
+org).
+- Bovet & Cesati. Understanding the Linux Kernel, 3rd edition, 2005.
+
+## Projects
+Most of your time in this class will be spent working on projects. You'll learn more about them as we go. 
+
+## Development Environment
+For all projects I will provide you with a [Vagrant](https://www.vagrantup.com/) configuration which you can
+use to spawn a virtual machine to do your work on. To use Vagrant, you'll need
+a VMM installed on your machine. [VirtualBox](https://www.virtualbox.org/) and [libvirt](https://libvirt.org/) (built on QEMU/kvm) are
+two free options. VMware Workstation or Fusion for Mac will work as well. If
+you're on a Windows box, [HyperV](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/quick-create-virtual-machine) is another option. See [here](https://learn.hashicorp.com/collections/vagrant/getting-started) for getting started
+with Vagrant VMs.
+
+
+## Other Useful Links and Resources
+- [Nice tutorial](https://try.github.io/levels/1/challenges/1) for learning git
+- [Emulators](https://www.pcjs.org/) for various historically significant machines
+- [MS BAISC](https://www.pagetable.com/?p=774) for 6502
+- [Interrupt logic](https://www.pagetable.com/?p=410) on the 6502
+- [6502 on the cloud](http://www.6502cloud.com/)
+- [Visual 6502](http://www.visual6502.org/JSSim/index.html)
+- [Godbolt](https://godbolt.org/) compiler explorer
+- [6502 ISA reference](https://www.masswerk.at/6502/6502_instruction_set.html)
+- Original MOS 6502 [programmer reference manual](http://users.telenet.be/kim1-6502/6502/proman.html)
 - [The Morning Paper](https://blog.acolyer.org/)
 
