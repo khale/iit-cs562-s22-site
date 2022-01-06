@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: CS 562 
-tagline: CS: 562: Virtual Machines, Spring 2022
+tagline: Virtual Machines, Spring 2022
 description: Into the Depths of Virtualization and Virtual Machines
 author: Kyle Hale
 baseurl: '/iit-cs562-s22-site' # the subpath of your site, e.g. /blog
