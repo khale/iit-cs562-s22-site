@@ -125,7 +125,7 @@ Your grade will be computed according to these criteria:
 
 For internet and India sections, the grade break-down is:
 - 80% Projects
-- 20% Project Presentations
+- 20% Project Presentations (you can send me a recording)
 
 ### Late work policy
 Each day assignment is late, it will incur a 10% penalty. If an assignment is more than 5 days late, it will not be accepted, and you will receive a zero.
