@@ -121,8 +121,11 @@ Your grade will be based mostly on the course projects.
 Your grade will be computed according to these criteria:
 - 10% Attendance and Participation
 - 70% Projects
-- 10% Project Presentations
+- 20% Project Presentations
 
+For internet and India sections, the grade break-down is:
+- 80% Projects
+- 20% Project Presentations
 
 ### Late work policy
 Each day assignment is late, it will incur a 10% penalty. If an assignment is more than 5 days late, it will not be accepted, and you will receive a zero.
