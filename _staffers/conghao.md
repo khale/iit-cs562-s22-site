@@ -1,6 +1,6 @@
 ---
 name: Conghao Liu
-role: TA
+role: Teaching Assistant
 email: cliu115@hawk.iit.edu
 website: ""
 photo: ""
