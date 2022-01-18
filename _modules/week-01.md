@@ -8,4 +8,4 @@ Day 1 (1/10)
 : [**Project 1 Prelim Out**{: .label .label-green}]({{ site.baseurl }}{% link projects/01-6502-prelim.md %})
 
 Day 2 (1/13)
-: Formal Foundations, Computer Architecture Review
+: Virtualization Basics, Computer Architecture Review

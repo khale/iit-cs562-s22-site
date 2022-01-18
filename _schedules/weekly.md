@@ -38,4 +38,9 @@ schedule:
         location: SB 210 (Zoom)
   - name: Thursday
   - name: Friday
+    events:
+      - name: Office Hours (TA - Liu)
+        start: 1:45 PM
+        end: 4:45 PM
+        location: TBD
 ---
