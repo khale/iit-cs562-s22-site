@@ -23,7 +23,7 @@ This is the webpage for CS 562: Virtual Machines
 [IIT](https://iit.edu).  This course is for graduates and advanced undergraduates in Computer Science.
 
 ## Course Communication
-We'll be using [Discord](https://discord.gg/dXuteHWX) for course communication. 
+We'll be using Discord for course communication (see Blackboard for link).
 
 ## Books
 The following book is the only required textbook for this course. If you plan
