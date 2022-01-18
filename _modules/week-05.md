@@ -7,4 +7,5 @@ Day 9 (2/7)
 
 Day 10 (2/9)
 : TBD
+: **Project 1 Due**{: .label .label-red }
 

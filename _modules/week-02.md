@@ -8,4 +8,5 @@ Day 3 (1/17)
 Day 4 (1/19)
 : Addressing Modes, MMIO, DMA Review
 : **Project 1 Prelim Due**{: .label .label-red }
+: [**Project 1 Out**{: .label .label-green}]({{ site.baseurl }}{% link projects/02-6502.md %})
 
