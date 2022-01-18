@@ -8,5 +8,4 @@ Day 5 (1/24)
 
 Day 6 (1/26)
 : 6502 Overview
-: [**Project 1 Out**{: .label .label-green}](#)
 
