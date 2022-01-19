@@ -42,5 +42,5 @@ schedule:
       - name: Office Hours (TA - Liu)
         start: 1:45 PM
         end: 4:45 PM
-        location: TBD
+        location: SB 115 (Zoom)
 ---
