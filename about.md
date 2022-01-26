@@ -106,7 +106,7 @@ time to cover basic C programming.
 
 ## Lectures
 It is critical you attend class sessions. We will Start out on Zoom, but after that we will
-meet in SB 210, barring any changes by the University administration. 
+meet in Wishnick Hall 116, barring any changes by the University administration. 
 
 ## Textbooks
 The following book is the only required textbook for this course. If you plan

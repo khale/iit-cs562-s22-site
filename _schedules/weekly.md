@@ -24,7 +24,7 @@ schedule:
       - name: Lecture
         start: 1:50 PM
         end: 3:05 PM
-        location: SB 210 (Zoom)
+        location: Wishnick Hall 116 (Zoom)
   - name: Tuesday
   - name: Wednesday
     events:
@@ -35,7 +35,7 @@ schedule:
       - name: Lecture
         start: 1:50 PM
         end: 3:05 PM
-        location: SB 210 (Zoom)
+        location: Wishnick Hall 116 (Zoom)
   - name: Thursday
   - name: Friday
     events:
