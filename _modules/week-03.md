@@ -7,5 +7,5 @@ Day 5 (1/24)
   : **S&N 2.1-2.3**{: .label .label-purple}
 
 Day 6 (1/26)
-: 6502 Overview
+: [6502 Overview]({{ site.baseurl }}{% link assets/slides/6502-overview.pdf %})
 
