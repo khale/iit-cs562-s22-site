@@ -3,7 +3,7 @@ title: Week 4
 ---
 
 Day 7 (1/31)
-: Hawknest overview and codebase intro
+: Hawknest Codewalk and Overview
 
 Day 8 (2/2)
 : Binary Translation
