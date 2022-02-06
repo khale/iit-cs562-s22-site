@@ -3,9 +3,9 @@ title: Week 5
 ---
 
 Day 9 (2/7)
-: TBD
+: QEMU Walkthrough
 
 Day 10 (2/9)
-: TBD
+: Intro to HLL VMs
 : **Project 1 Due**{: .label .label-red }
 
