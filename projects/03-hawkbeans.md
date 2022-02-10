@@ -15,10 +15,10 @@ For this project, you will be completing the implementation of the Hawkbeans
 Java Virtual Machine. Namely, you will be completing this project in four parts
 by implementing components of the JVM that deal with:
 
-    1. Symbolic Resolution (linking)
-    2. Bytecode Interpretation
-    3. Exceptions
-    4. Garbage Collection
+1. Symbolic Resolution (linking)
+2. Bytecode Interpretation
+3. Exceptions
+4. Garbage Collection
 
 You will be working with the Hawkbeans codebase, a small implementation of
 a reasonable subset of the JVM spec. You will receive the code in skeleton
@@ -239,7 +239,7 @@ done within the context of a method! That is, there is no way to execute
 bytecode in this JVM without invoking a Java method. This is a very important
 distinction from other types of virtual machines.
 
-#### Coding Task 2
+### Coding Task 2
 
 Your task here is to add some important functionality to the interpreter.
 Namely, you will complete the implementations of the following functions:
@@ -301,7 +301,7 @@ exception support to Hawkbeans. There is a skeleton in place for you; you must
 just fill in the exception interface and the missing usage of it in the
 bytecode interpreter.
 
-#### Coding Task 3
+### Coding Task 3
 
 The interface to exceptions used by the rest of the JVM is defined in `include/exceptions.h`. The two main functions are:
 
@@ -396,7 +396,7 @@ through the reference table, and see which references were still around during
 the mark phase. Those which were not are now considered garbage and must be
 collected. The details are discussed below.
 
-#### Coding Task 4
+### Coding Task 4
 There is significantly more skeleton code for you to work with for this part.
 You should start by taking a look at `gc_init()` in `src/gc.c`. This is where the GC
 is initialized. The important bits here that you should look at are the calls
