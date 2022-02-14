@@ -7,8 +7,8 @@ summary: P2
 
 # Project 2: The Hawkbeans JVM
 
-Released: TBD
-**Due Date: TBD**
+Released: Monday, 02/14/2022
+**Due Date: Friday, 3/11/2022 11:59PM CST**
 
 ## Overview
 For this project, you will be completing the implementation of the Hawkbeans
