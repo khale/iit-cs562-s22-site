@@ -9,3 +9,4 @@ Day 11 (2/14)
 
 Day 12 (2/16)
 : HLL Implementation Strategies
+  : **S&N 6**{: .label .label-purple}
