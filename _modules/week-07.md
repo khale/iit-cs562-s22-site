@@ -3,8 +3,7 @@ title: Week 7
 ---
 
 Day 13 (2/21)
-: TBD
-: **Instructor Travel - Remote**{: .label .label-orange}
+: **Instructor Travel - No Class**{: .label .label-yellow}
 
 Day 14 (2/23)
-: TBD
+: Garbage Collection
