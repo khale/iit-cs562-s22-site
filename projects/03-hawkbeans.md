@@ -152,8 +152,8 @@ the appropriate entry. To indicate that the entry is resolved, we [rely on some
 insider information](https://en.wikipedia.org/wiki/X86-64#Canonical_form_addresses) about virtual addresses and set the highest bit of the
 pointer's address to 1 (sometimes this is called a _tagged_ pointer. For example,
 for classes, this means that a `CONST_Class_info_t*` is replaced with
-a `ljava_class_t*`. For methods, it means a `CONST_Methodref_info_t*` is replaced
-with a `lmethod_info_t*` (both structs are defined in `include/class.h`).
+a `java_class_t*`. For methods, it means a `CONST_Methodref_info_t*` is replaced
+with a `method_info_t*` (both structs are defined in `include/class.h`).
 
 #### `hb_resolve_class()`
 This function is used by other parts of the JVM to resolve symbolic references

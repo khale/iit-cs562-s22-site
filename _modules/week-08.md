@@ -7,5 +7,6 @@ Day 15 (2/28)
   : **S&N 6.5**{: .label .label-purple}
 
 Day 16 (3/2)
-: TBD
+: Intro to Full System Virtualization
+  : **S&N 8.1-8.4**{: .label .label-purple}
 
