@@ -3,7 +3,7 @@ title: Week 9
 ---
 
 Day 17 (3/7)
-: Palacios VMM Codewalk
+: Project Hacking
   : [**Palacios Paper**{: .label .label-purple}](http://v3vee.org/papers/ipdps10.pdf)
 
 Day 18 (3/9)
