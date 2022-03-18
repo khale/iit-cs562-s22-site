@@ -85,7 +85,7 @@ want to change this. It's not hard to extend this to work with C code, but
 you'll want to use the compiler flags `-ffreestanding`, `-nostdlib`, and `-m32`.
 
 ## Next Steps
-f you've gotten this far and you're looking to make your VMM/guest more interesting, here are some tips:
+If you've gotten this far and you're looking to make your VMM/guest more interesting, here are some tips:
 
 - Figure out how to set up interrupts in KVM (see KVM's IRQCHIP calls, and
   irqfd functionality)
