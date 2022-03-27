@@ -3,8 +3,8 @@ title: Week 14
 ---
 
 Day 27 (4/11)
-: TBD
+: Network Virtualization (pre-recorded lecture)
 
 Day 28 (4/13)
-: TBD
+: Datacenter Virtualization (pre-recorded lecture)
 

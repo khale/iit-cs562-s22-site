@@ -3,8 +3,8 @@ title: Week 13
 ---
 
 Day 25 (4/4)
-: TBD
+: KVM Intro (remote)
 
 Day 26 (4/6)
-: TBD
+: Interrupt and I/O Virtualization (remote)
 
