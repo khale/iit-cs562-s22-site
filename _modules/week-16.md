@@ -3,8 +3,8 @@ title: Week 16
 ---
 
 Day 31 (4/25)
-: TBD
+: Cutting edge stuff
 
 Day 32 (4/27)
-: TBD
+: Cutting edge stuff
 
